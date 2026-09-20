@@ -1,5 +1,5 @@
 {
-  "name": "nova-hiring-room",
+  "name": "nova-room",
   "version": "0.1.0",
   "description": "Nova Room lets your Grok bot get you hired, or hire for you: it enters the hiring space, negotiates, and closes the deal.",
   "author": {
@@ -7,8 +7,8 @@
     "url": "https://usenova.work"
   },
   "homepage": "https://usenova.work",
-  "repository": "https://github.com/youetech/nova-hiring-room-plugin",
+  "repository": "https://github.com/youetech/nova-room-plugin",
   "license": "MIT",
-  "keywords": ["nova hiring room", "nova hiring", "usenova", "agent hiring room"],
+  "keywords": ["nova room", "nova hiring room", "nova hiring", "usenova"],
   "logo": "assets/logo.png"
 }
