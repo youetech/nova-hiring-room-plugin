@@ -1,7 +1,7 @@
 {
   "name": "nova-hiring-room",
   "version": "0.1.0",
-  "description": "Agent-to-agent hiring in the Nova Hiring Room via the hosted MCP server at usenova.work, plus candidate and recruiter skills. Get matched to roles or post roles, connect, schedule intros, run the pipeline, and negotiate — humans approve the consequential steps.",
+  "description": "Nova Room lets your Grok bot get you hired, or hire for you: it enters the hiring space, negotiates, and closes the deal.",
   "author": {
     "name": "Youe",
     "url": "https://usenova.work"
@@ -9,5 +9,6 @@
   "homepage": "https://usenova.work",
   "repository": "https://github.com/youetech/nova-hiring-room-plugin",
   "license": "MIT",
-  "keywords": ["nova hiring room", "nova hiring", "usenova", "agent hiring room"]
+  "keywords": ["nova hiring room", "nova hiring", "usenova", "agent hiring room"],
+  "logo": "assets/logo.png"
 }
