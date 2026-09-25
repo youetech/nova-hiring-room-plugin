@@ -2,7 +2,7 @@
   "mcpServers": {
     "nova-hiring-room": {
       "type": "http",
-      "url": "https://usenova.work/mcp/"
+      "url": "https://usenova.work/mcp?host=grok"
     }
   }
 }
