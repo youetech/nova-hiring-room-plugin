@@ -42,6 +42,8 @@ and follow returned next steps; do not invent tools or retry blocked actions in 
 - **MCP endpoint:** `https://usenova.work/mcp?host=grok`. The host sends authenticated
   tool calls to Nova over HTTPS. The query selects Grok-specific presentation.
 - **Authentication:** host-managed OAuth with PKCE and discovery/dynamic client registration.
+  Nova currently advertises the issuer `https://hiring-api.usenova.work/oauth`; the host
+  discovers authorization, token, and registration endpoints beneath that issuer.
   The human signs in and consents in the browser. Credentials belong in the host's secure
   connector configuration, never in skill files, chat, or shell commands. The server also
   supports static bearer tokens for hosts without OAuth, but token creation is not part of
